@@ -1,0 +1,11 @@
+{
+    "db_user" : "postgres",
+    "db_host" : "localhost",
+    "db_name" : "banco",
+    "db_password": "123456789",
+    "db_port" : 5432,
+
+    "server_port" : 3000,
+
+    "secret_key": "123456789"
+}
